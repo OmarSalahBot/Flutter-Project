@@ -350,7 +350,7 @@ class _AuthCardState extends State<AuthCard>
                       });
                     },
                     _authData['governorate']!,
-                    title: 'المحافظة - التطبيق حاليا يدعم فقط محافظة بغداد',
+                    title: 'محافظة - التطبيق حاليا يدعم فقط محافظة القاهرة',
                   ),
                 if (_authMode == AuthMode.SignUp)
                   TextFormField(
